@@ -1,8 +1,13 @@
-# program_url-checker
+# Info
 Program to check the status of the input url
 
-
-# Reference
 This program is referenced by NomadCoder class.
 
 https://nomadcoders.co/
+
+
+# Update
+
+- 2021.12.12
+  - Upload prototype
+
