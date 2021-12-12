@@ -1,5 +1,5 @@
 # Info
-Program to check the status of the input url
+This is a program to check the status of the input url
 
 This program is referenced by NomadCoder class.
 
