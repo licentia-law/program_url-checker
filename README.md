@@ -5,6 +5,10 @@ This program is referenced by NomadCoder class.
 
 https://nomadcoders.co/
 
+# Library
+- Requests
+  - pip install requests
+
 
 # Update
 
